@@ -10,5 +10,6 @@ Some programs that i make aren't open-source (yet).
 [GBot 4](https://github.com/GachaYTB/gbot-4)
 
 ## Websites
+[gachaytb.fr](https://gachaytb.github.io/gachaytb.fr/) [source](https://github.com/GachaYTB/gachaytb.fr)<br>
 [takebananacatto.space](https://gachaytb.github.io/takebananacatto.space/) [source](https://github.com/GachaYTB/takebananacatto.space)<br>
 [Rotating Obama](https://gachaytb.github.io/RotatingObama/) [source](https://github.com/GachaYTB/RotatingObama)
