@@ -1,10 +1,7 @@
 ### Hey! Im **GachaYTB** or **GachaYTB3**, im a programmer that programs multiple things like Discord Bots, Tools, Websites etc...
 Some programs that i make aren't open-source (yet).
 
-## Tools
-[CreateMeme (meme creator)](https://github.com/GachaYTB/CreateMeme)<br>
-[Tools](https://github.com/GachaYTB/Tools)<br>
-[discord-custom-link-embed](https://github.com/GachaYTB/discord-custom-link-embed)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Modding%20>%20Cookies)](https://git.io/typing-svg)
 
 ## Discord Bots
 [GBot 4](https://github.com/GachaYTB/gbot-4)
