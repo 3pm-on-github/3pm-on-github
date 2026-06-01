@@ -5,4 +5,4 @@
 ### How many people saw my profile?
 ![:moe-counter](https://count.getloli.com/@:3pm)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Unitendo%20>%20Project%20Rosé%20(sorry%20guys%:3))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&width=435&lines=Unitendo+%3E+Project+Ros%C3%A9+(sorry+guys+%3A3))](https://git.io/typing-svg)
