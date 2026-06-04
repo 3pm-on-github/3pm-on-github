@@ -12,7 +12,7 @@
 
 ![](https://github-readme-stats.shion.dev/api?username=3pm-on-github\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=3pm-on-github)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-dun.vercel.app?user=3pm_on-github)](https://git.io/streak-stats)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=3pm-on-github\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false\&layout=compact)
 
