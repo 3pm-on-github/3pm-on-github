@@ -6,3 +6,14 @@
 ![:moe-counter](https://count.getloli.com/@:3pm)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&width=435&lines=Unitendo+%3E+Project+Ros%C3%A9+(sorry+guys+%3A3))](https://git.io/typing-svg)
+
+## Github Stats
+<div align="center">
+
+![](https://github-readme-stats.shion.dev/api?username=3pm-on-github\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=3pm-on-github\&theme=dark\&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=3pm-on-github\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false\&layout=compact)
+
+</div>
