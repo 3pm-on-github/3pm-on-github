@@ -5,7 +5,7 @@
 ### How many people saw my profile?
 ![:moe-counter](https://count.getloli.com/@:3pm)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=&pause=1000&width=1155&lines=Startendo+>+Project+Rosé+(under+cool+guy's+management)+>+Unitendo+>+Project+Rosé+normally+(sorry+guys+%3A3))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=&pause=1000&width=1155&lines=codeless+>+claude+>+mistral+>+kimi+>+deepseek+>+chatgpt+frfr)](https://git.io/typing-svg)
 
 ## Github Stats
 <div align="center">
